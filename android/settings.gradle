@@ -1,0 +1,3 @@
+rootProject.name = 'ducks_boilerplate'
+
+include ':app'
